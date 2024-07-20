@@ -1,0 +1,10 @@
+area juego = 600 * 500
+
+cada cuadrado = 20*20
+
+600/20 = 30 cubos lado
+500/20 = 25 cubos alto
+
+pieza:
+    - cuadrado = 2*2 cubos -> amarillo
+    - recta = 1*4 -> azul
